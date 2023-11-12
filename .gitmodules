@@ -1,0 +1,6 @@
+[submodule "rust-playground"]
+	path = rust-playground
+	url = https://github.com/Creeper751/rust-playground.git
+[submodule "rust-server"]
+	path = rust-server
+	url = https://github.com/Creeper751/rust-server.git
